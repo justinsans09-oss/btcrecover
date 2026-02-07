@@ -10,7 +10,7 @@ To try recovering your password, please start with the **[Password Recovery Quic
 If you mostly know your recovery seed/mnemonic (12-24 recovery words), but think there may be a mistake in it, please see the **[Seed Recovery Quick Start](docs/Seedrecover_Quick_Start_Guide.md)**.
 
 If you find *btcrecover* helpful, please consider a small donation:
-**[3Au8ZodNHPei7MQiSVAWb7NB2yqsb48GW4](bitcoin:3Au8ZodNHPei7MQiSVAWb7NB2yqsb48GW4?label=btcrecover)**
+**[bc1q25whwu0jg8zdudppedumxu6ppzvdw733ja37y5](bitcoin:bc1q25whwu0jg8zdudppedumxu6ppzvdw733ja37y5?label=btcrecover)**
 
 **Thank You!**
 
